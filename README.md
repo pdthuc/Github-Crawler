@@ -16,8 +16,8 @@
 1. Clone repository này về máy của bạn:
 
 ```bash
-git clone https://github.com/your_username/find-github-link.git
-cd find-github-link
+git https://github.com/pdthuc/Github-Crawler.git
+cd Github-Crawler
 ```
 
 2. Cài đặt các gói cần thiết bằng pip:
